@@ -1,8 +1,7 @@
 ---
 layout: page
-title: _About_
+title: About
 permalink: /about/
-icon: glyphicon-heart
 ---
 
 ### 关于
