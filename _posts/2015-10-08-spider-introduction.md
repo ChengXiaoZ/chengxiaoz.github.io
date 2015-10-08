@@ -71,15 +71,15 @@ Versions of Spider in MariaDB
 
 *  [MySQL Partitioning:-The Spider Solution：2011年Percona Live London的一篇ppt](http://wenku.baidu.com/view/d8023615a216147917112846.html)
 
-*  [Kentoku Shiba对Spider的介绍1]
+*  [Kentoku Shiba对Spider的介绍1](http://pan.baidu.com/s/1kTKqjiB)
 
-*  [Kentoku Shiba对Spider的介绍2]
+*  [Kentoku Shiba对Spider的介绍2](http://pan.baidu.com/s/1c0hUJw0)
 
 *  [HA feature of Spider : Kentoku Shiba对Spider的HA特性介绍](http://wenku.baidu.com/view/cdc40108b307e87100f69636)
 
-*  [Kentoku Shiba对Spider的在线运维介绍]
+*  [Kentoku Shiba对Spider的在线运维介绍](http://pan.baidu.com/s/12X35s)
 
-*  [Kentoku Shiba的Spider性能测试介绍]
+*  [Kentoku Shiba的Spider性能测试介绍](http://wenku.baidu.com/view/49efa75fa21614791611281b)
 
 ---
 
