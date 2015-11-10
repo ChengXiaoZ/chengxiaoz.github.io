@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spider数据引擎实践与优化（四） 安装与基本案例"
+title:  "Spider数据引擎实践与优化（四） 安装与案例1"
 date:   2015-10-14
 categories: Spider数据引擎实践与优化
 ---
@@ -75,9 +75,11 @@ cmake时指定prefix目录，裁剪掉不需要的存储引擎
 
 	bin/mysqld --defaults-file=my.cnf --user=mariadb
 
-创建数据字典表
+加载动态库并创建数据字典表
 
 	bin/mysql -uroot
+	
+	MariaDB [(none)]>install plugin spider soname 'ha_spider.so';
 	
 	MariaDB [(none)]>source /home/test/mariadb-10.0.9-spider-3.2/bld/release/share/install_spider.sql
 
