@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spider数据引擎实践与优化（四） 安装与案例1"
+title:  "Spider数据引擎实践与优化（四）实践案例（mysql）"
 date:   2015-10-14
 categories: Spider数据引擎实践与优化
 ---

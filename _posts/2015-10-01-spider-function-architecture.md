@@ -57,7 +57,7 @@ Monitoring Node（可选）：对Backend节点的监控，排除故障节点。
 
 ## 常用模式
 
-根据分区和复制的方式，Spider包含4种使用模式
+根据分区和复制的方式，Spider包含[4种使用模式](https://mariadb.com/kb/en/mariadb/spider-storage-engine-core-concepts/)
 
 *  Federation：数据直连，类似Oracle dblink或MariaDB FedX引擎
 
