@@ -162,9 +162,9 @@ PROXY节点创建SERVER backend1_db1
 
 *  PROXY:IP127.0.0.1 端口3306 root用户密码空
 
-*  BACKEND1:IP192.168.226.1 端口3310 root用户密码空
+*  BACKEND1:IP192.168.226.1 端口3310 用户root密码空
 
-*  BACKEND2:IP192.168.226.1 端口3320 root用户密码空
+*  BACKEND2:IP192.168.226.1 端口3320 用户root密码空
 
 定义mysql客户端登录alias
 
@@ -558,7 +558,7 @@ MySQL提供MySQL Test Framework作为功能测试环境，支持自动回归测�
 
 	git clone git@github.com:ChengXiaoZ/spiderxtest.git
 	
-	mv spiderxtest /home/test/mariadb-10.0.9-spider-3.2/bld/release/mysql-test/suite/
+	cp spiderxtest /home/test/mariadb-10.0.9-spider-3.2/bld/release/mysql-test/suite/
 
 启动BACKEND1和BACKEND2，root用户口令为空
 
